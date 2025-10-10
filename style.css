@@ -55,7 +55,7 @@ body {
 }
 #santa {
     position: fixed;
-  animation: fly 185s linear infinite;
+  animation: fly 85s linear infinite;
   width: 200px;
   left: 1450px;
   z-index: 300;
