@@ -70,7 +70,7 @@ body {
 }
 #distant {
      position: fixed;
-	 left:250px;
+	 left:280px;
   animation: fly 125s linear infinite;
   width: 600px;
   z-index: 300;
@@ -87,7 +87,7 @@ body {
     animation: shooting 12s linear;
 }
 #shade {
-    -webkit-animation: shadow 16s linear infinite;
+    -webkit-animation: shadow 126s linear infinite;
     -webkit-animation-fill-mode: forwards;
     -moz-animation-fill-mode: forwards;
     -o-animation-fill-mode: forwards;
