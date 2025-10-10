@@ -5,7 +5,7 @@
 }
 body {
 	position: fixed;
-    background:url(https://xatimg.com/image/idbzigZGAxJU.jpg);
+    background:url(https://xatimg.com/image/2IRTDBVYjGbv.jpg);
 }
 .cloud {
     width: 200px;
@@ -16,10 +16,10 @@ body {
     float: right;
 }
 .bat {
-    margin-left:200px;
+    margin-left:500px;
 	margin-top:320px;
-    width:620px;
-	height:250px;
+    width:450px;
+	height:150px;
 }
 .coffin {
     float:right;
@@ -40,7 +40,7 @@ body {
 	color: #000;
     height: 390px;
     position: fixed;
-    top: 90px;
+    top: 70px;
     right: 8%;
     text-shadow: 3px 3px 6px red, 0 0 2em red;
 }
@@ -48,13 +48,14 @@ body {
     position: absolute;
     top: 35%;
     left: -10px;
-    -webkit-animation: sidetoside 180s linear infinite;
+    -webkit-animation: sidetoside 120s linear infinite;
     -moz-animation: sidetoside 120s linear infinite;
+    -o-animation: sidetoside 120s linear infinite;
     animation: sidetoside 25s linear infinite;
 }
 #santa {
     position: fixed;
-  animation: fly 125s linear infinite;
+  animation: fly 185s linear infinite;
   width: 200px;
   left: 1450px;
   z-index: 300;
@@ -70,7 +71,7 @@ body {
 }
 #distant {
      position: fixed;
-	 left:280px;
+	 left:250px;
   animation: fly 125s linear infinite;
   width: 600px;
   z-index: 300;
@@ -87,7 +88,7 @@ body {
     animation: shooting 12s linear;
 }
 #shade {
-    -webkit-animation: shadow 126s linear infinite;
+    -webkit-animation: shadow 16s linear infinite;
     -webkit-animation-fill-mode: forwards;
     -moz-animation-fill-mode: forwards;
     -o-animation-fill-mode: forwards;
